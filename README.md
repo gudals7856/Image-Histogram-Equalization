@@ -1,4 +1,4 @@
-# Histogram Equalization과 YCbCr 색공간을 이용한 이미지 개선
+## Histogram Equalization과 YCbCr 색공간을 이용한 이미지 개선
 ---------------
 ## 프로젝트 설명
 >YCbCr은 영상처리 분야에서 사용되는 색공간의 일종이다. Y는 luma(빛의 세기), Cb,Cr은 chroma(색의 차이) 성분이다.
